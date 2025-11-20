@@ -1,5 +1,5 @@
-# NAME  : M MANI SRI LATHA
-# REG NO : 212223110025
+## NAME  : M MANI SRI LATHA
+## REG NO : 212223110025
 
 # Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
